@@ -1,3 +1,9 @@
+# Samuel Glover's First CS193 Homework
+
+- I enjoy coding a lot particularly because of the problem-solving aspect, so that's a big reason I like CS193
+- The fact that CS193 is taught by TA's means that the lectures are a bit more energetic than most of the others.
+- I'm excited to learn about terminal commands because they're new and interesting, and they seem like a useful skill to have.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
